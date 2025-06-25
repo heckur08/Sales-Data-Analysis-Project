@@ -1,1 +1,1 @@
-This is the file for all the data regarding the data analysis of sales data.
+This folder contains the month-wise sales data, the .ipyb file for sales data analysis, and its output.
