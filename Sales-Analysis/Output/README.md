@@ -1,1 +1,5 @@
-This folder contains the output of the project.
+### Outputs
+- Contains exported visualizations:
+  - Monthly sales charts
+  - Geographic distribution maps
+  - Product performance graphs
